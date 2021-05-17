@@ -1,0 +1,2 @@
+(this["webpackJsonpgithub-finder-redux"]=this["webpackJsonpgithub-finder-redux"]||[]).push([[0],{11:function(e,n,t){"use strict";t.r(n);var i=t(1),r=t.n(i),c=t(3),d=t.n(c),u=(t(8),t(9),t(0));var s=function(){return Object(u.jsx)("div",{className:"App",children:Object(u.jsx)("h1",{children:" Github Finder Redux "})})};d.a.render(Object(u.jsx)(r.a.StrictMode,{children:Object(u.jsx)(s,{})}),document.getElementById("root"))},8:function(e,n,t){},9:function(e,n,t){}},[[11,1,2]]]);
+//# sourceMappingURL=main.8c75758b.chunk.js.map
