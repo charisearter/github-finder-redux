@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/github-finder-redux/static/css/main.9d5b29c0.chunk.css",
-    "main.js": "/github-finder-redux/static/js/main.39328ac3.chunk.js",
-    "main.js.map": "/github-finder-redux/static/js/main.39328ac3.chunk.js.map",
+    "main.css": "/github-finder-redux/static/css/main.7024d5ab.chunk.css",
+    "main.js": "/github-finder-redux/static/js/main.54465936.chunk.js",
+    "main.js.map": "/github-finder-redux/static/js/main.54465936.chunk.js.map",
     "runtime-main.js": "/github-finder-redux/static/js/runtime-main.1f38f65e.js",
     "runtime-main.js.map": "/github-finder-redux/static/js/runtime-main.1f38f65e.js.map",
-    "static/js/2.775d59bd.chunk.js": "/github-finder-redux/static/js/2.775d59bd.chunk.js",
-    "static/js/2.775d59bd.chunk.js.map": "/github-finder-redux/static/js/2.775d59bd.chunk.js.map",
+    "static/js/2.57e5c3dd.chunk.js": "/github-finder-redux/static/js/2.57e5c3dd.chunk.js",
+    "static/js/2.57e5c3dd.chunk.js.map": "/github-finder-redux/static/js/2.57e5c3dd.chunk.js.map",
     "index.html": "/github-finder-redux/index.html",
-    "static/css/main.9d5b29c0.chunk.css.map": "/github-finder-redux/static/css/main.9d5b29c0.chunk.css.map",
-    "static/js/2.775d59bd.chunk.js.LICENSE.txt": "/github-finder-redux/static/js/2.775d59bd.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/github-finder-redux/static/media/logo.6ce24c58.svg"
+    "static/css/main.7024d5ab.chunk.css.map": "/github-finder-redux/static/css/main.7024d5ab.chunk.css.map",
+    "static/js/2.57e5c3dd.chunk.js.LICENSE.txt": "/github-finder-redux/static/js/2.57e5c3dd.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.1f38f65e.js",
-    "static/js/2.775d59bd.chunk.js",
-    "static/css/main.9d5b29c0.chunk.css",
-    "static/js/main.39328ac3.chunk.js"
+    "static/js/2.57e5c3dd.chunk.js",
+    "static/css/main.7024d5ab.chunk.css",
+    "static/js/main.54465936.chunk.js"
   ]
 }
