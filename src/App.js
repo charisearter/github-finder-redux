@@ -1,11 +1,9 @@
-
 import "./App.css";
 
 function App() {
 	return (
 		<div className="App">
-
-			<h1> Github Finder Redo </h1>
+			<h1> Github Finder Redo Testing </h1>
 		</div>
 	);
 }
